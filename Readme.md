@@ -1,1 +1,1 @@
-<script src="https://unpkg.com/@codersrank/skills-chart@x.x.x/codersrank-skills-chart.min.js"></script>
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=YOUR_USERNAME
